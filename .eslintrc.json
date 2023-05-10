@@ -1,0 +1,6 @@
+{
+  "extends": ["next/core-web-vitals", "berry"],
+	"rules": {
+		"jsx-quotes": ["error", "prefer-single"]
+	}
+}
